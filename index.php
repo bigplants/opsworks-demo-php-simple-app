@@ -21,6 +21,7 @@
                 <p>This host is running PHP version <?php echo phpversion(); ?>.</p>
                 <p>デプロイ　テスト</p>
                 <p>git pushによる自動デプロイ</p>
+                <p>git pushによる自動デプロイその２</p>
             </div>
         </div>
 
